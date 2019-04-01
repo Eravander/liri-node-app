@@ -23,7 +23,7 @@ validate(command, lookup);
         break;
 
       case "spotify-this-song":
-        var title = process.argv.splice(3).join(" ") || lookup
+        var title = process.argv.splice(3).join(" ") || lookup || "The Sign"
         spotifyThis(title);
         console.log(`You want to search Spotify for ${title}`)
         break;
@@ -71,8 +71,19 @@ function spotifyThis(track) {
   spotify
     .search({ type: 'track', query: song })
     .then(function (response) {
-      console.log(response);
-      console.log(spotify)
+      // console.log(response.tracks.items[0])
+     var results = response.tracks.items[0];
+    info = `--------------------------------------
+Artist: ${results.artists[0].name}
+Song Title: ${results.name}
+Preview Link: ${results.preview_url}
+Album: ${results.album.name}
+------------------------------------------------`
+fs.appendFileSync("log.txt", `Song Information
+    ${info}`, function (err) {
+          if (err) throw err;
+        });
+console.log(info)
     })
     .catch(function (err) {
       console.log(err);
@@ -85,15 +96,15 @@ function movieThis(movie) {
     function (response) {
       results = response.data;
       var info = `------------------------------
-    Title: ${results.Title}
-    Year: ${results.Year}
-    IMDB Rating: ${results.Ratings[0].Value}
-    Rotten Tomatoes Rating: ${results.Ratings[1].Value}
-    Country: ${results.Country}
-    Languages: ${results.Language}
-    Actors: ${results.Actors}
-    Plot" ${results.Plot}
-    --------------------------------------------`
+Title: ${results.Title}
+Year: ${results.Year}
+IMDB Rating: ${results.Ratings[0].Value}
+Rotten Tomatoes Rating: ${results.Ratings[1].Value}
+Country: ${results.Country}
+Languages: ${results.Language}
+Actors: ${results.Actors}
+Plot" ${results.Plot}
+--------------------------------------------`
 
       fs.appendFileSync("log.txt", `Movie Information
     ${info}`, function (err) {
