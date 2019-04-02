@@ -214,4 +214,248 @@ Artist: Korn
 Song Title: Got the Life
 Preview Link: https://p.scdn.co/mp3-preview/97911463d8ad258129680404372756d2078a8cf8?cid=e0f54de79b1e47378a0c7e5bf2fc9e15
 Album: Follow The Leader
+------------------------------------------------Concert Information
+----------------------------------------
+Venue Name: Welcome To Rockville
+Venue Location: Jacksonville, FL
+Date of event: 05/03/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Epicenter Fest
+Venue Location: Rockingham, NC
+Date of event: 05/10/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Austin360 Amphitheater
+Venue Location: Austin, TX
+Date of event: 07/18/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: The Cynthia Woods Mitchell Pavilion
+Venue Location: The Woodlands, TX
+Date of event: 07/20/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Dos Equis Pavilion
+Venue Location: Dallas, TX
+Date of event: 07/21/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Oak Mountain Amphitheatre
+Venue Location: Pelham, AL
+Date of event: 07/23/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Ameris Bank Amphitheatre (Formerly Verizon Amphitheatre)
+Venue Location: Alpharetta, GA
+Date of event: 07/25/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Bridgestone Arena
+Venue Location: Nashville, TN
+Date of event: 07/26/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Coral Sky Amphitheatre
+Venue Location: West Palm Beach, FL
+Date of event: 07/28/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Veterans United Home Loans Amphitheater at Virginia Beach
+Venue Location: Virginia Beach, VA
+Date of event: 07/30/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Jiffy Lube Live
+Venue Location: Bristow, VA
+Date of event: 07/31/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Darien Lake Amphitheater
+Venue Location: Darien Center, NY
+Date of event: 08/02/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: BB&T Pavilion
+Venue Location: Camden, NJ
+Date of event: 08/03/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Northwell Health at Jones Beach Theater
+Venue Location: Wantagh, NY
+Date of event: 08/06/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: PNC Bank Arts Center
+Venue Location: Holmdel, NJ
+Date of event: 08/07/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: The Xfinity Center
+Venue Location: Mansfield, MA
+Date of event: 08/09/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: The XFINITY Theatre
+Venue Location: Hartford, CT
+Date of event: 08/10/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Saratoga Performing Arts Center
+Venue Location: Saratoga Springs, NY
+Date of event: 08/11/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: DTE Energy Music Theatre
+Venue Location: Clarkston, MI
+Date of event: 08/13/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Budweiser Stage
+Venue Location: Toronto, 
+Date of event: 08/14/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Blossom Music Center
+Venue Location: Cuyahoga Falls, OH
+Date of event: 08/16/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: KeyBank Pavilion
+Venue Location: Burgettstown, PA
+Date of event: 08/17/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Riverbend Music Center
+Venue Location: Cincinnati, OH
+Date of event: 08/18/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Ruoff Home Mortgage Music Center
+Venue Location: Noblesville, IN
+Date of event: 08/20/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Hollywood Casino Amphitheatre
+Venue Location: Tinley Park, IL
+Date of event: 08/21/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Hollywood Casino Amphitheatre
+Venue Location: Maryland Heights, MO
+Date of event: 08/23/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Pepsi Center
+Venue Location: Denver, CO
+Date of event: 08/25/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Isleta Amphitheater
+Venue Location: Albuquerque, NM
+Date of event: 08/27/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: FivePoint Amphitheatre
+Venue Location: Irvine, CA
+Date of event: 08/30/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Ak-Chin Pavilion
+Venue Location: Phoenix, AZ
+Date of event: 08/31/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: North Island Credit Union Amphitheatre
+Venue Location: Chula Vista, CA
+Date of event: 09/02/2019
+------------------------------------------------------------
+Concert Information
+----------------------------------------
+Venue Name: Shoreline Amphitheatre
+Venue Location: Mountain View, CA
+Date of event: 09/04/2019
+------------------------------------------------------------
+Song Information
+    --------------------------------------
+Artist: Panic! At The Disco
+Song Title: Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off
+Preview Link: https://p.scdn.co/mp3-preview/97a3af44edbcbd780ac66a3c4c5060a1288e0daa?cid=e0f54de79b1e47378a0c7e5bf2fc9e15
+Album: A Fever You Can't Sweat Out
+------------------------------------------------Movie Information
+    ------------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Languages: English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot" A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+--------------------------------------------Movie Information
+    ------------------------------
+Title: Star Trek
+Year: 2009
+IMDB Rating: 8.0/10
+Rotten Tomatoes Rating: 94%
+Country: USA, Germany
+Languages: English
+Actors: Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana
+Plot" The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
+--------------------------------------------Movie Information
+    ------------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Languages: English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot" A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+--------------------------------------------Movie Information
+    ------------------------------
+Title: Rubber
+Year: 2010
+IMDB Rating: 5.8/10
+Rotten Tomatoes Rating: 68%
+Country: France, Angola, USA
+Languages: English
+Actors: Stephen Spinella, Jack Plotnick, Wings Hauser, Roxane Mesquida
+Plot" A homicidal car tire, discovering it has destructive psionic power, sets its sights on a desert town once a mysterious woman becomes its obsession.
+--------------------------------------------Song Information
+    --------------------------------------
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0f54de79b1e47378a0c7e5bf2fc9e15
+Album: The Hits--Chapter One
 ------------------------------------------------
