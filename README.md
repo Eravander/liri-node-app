@@ -5,6 +5,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies. Using these commands:
 ![visuals](images/command-default.png)
    * `concert-this`
+
 ![visuals](images/concert-this.png)
    * `spotify-this-song`
 ![visuals](images/spotify-this-song.png)
